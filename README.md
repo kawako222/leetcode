@@ -1,6 +1,6 @@
 #  LeetCode Journey - Python Solutions
 
-¡Bienvenido a mi repositorio de LeetCode! Aquí documento mi progreso diario resolviendo problemas de algoritmos y estructuras de datos, utilizando **Python 3**.
+¡Bienvenido a mi repositorio de LeetCode! Aquí documento mi progreso diario resolviendo problemas de algoritmos y estructuras de datos, utilizando Python 3.
 
 ##  Objetivo
 El propósito de este repositorio es:
@@ -24,9 +24,8 @@ Actualmente, organizo mis soluciones basándome en la dificultad del problema (p
 
 ##  Progreso
 - **Easy:** 1
-- **Medium:** 2
+- **Medium:** 3
 - **Hard:** 1
-- **Total:** 4
+- **Total:** 5
 
 ---
-> *"La constancia es la clave en LeetCode. Un problema al día mantiene a raya la falta de lógica."* 💡
